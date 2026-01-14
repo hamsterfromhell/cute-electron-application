@@ -1,47 +1,4 @@
-## Electron App Template 
 
-**IMPORTANT:** Click & open README.md for full instruction. The preview gets cut off. 
-
-A simple ElectronJS starter template for building desktop applications using HTML, CSS, and JavaScript.
-
-This repo is part of my YouTube tutorial on setting up your very first Electron desktop app. It’s designed to be simple, beginner-friendly, and easy to customize for any project.
-
----
-
-## Tutorial Video
-
-This repo is a part of my Youtube video tutorial on how to set up your very first desktop application. See the video here: https://www.youtube.com/watch?v=btxGSJ3Dh8E&t=373s
-
-This repo is only for the basic Electron template that you can clone to build whatever you want. But if you're interested in a beginner demonstration tutorial too, see this repositary for a simple Calendar Widget: https://github.com/nasha-wanich/little-calendar 
-
----
-
-## What’s Included
-
-- Basic Electron setup
-- Single window configuration
-- Frameless, non-resizable window
-- Draggable app window using CSS
-- Plain HTML / CSS / JavaScript (no frameworks)
-
-You can now customize the UI, add features, or turn this into any desktop app you want.
-
----
-
-## What this template is for 
-
-This template is great if you are:
-
-- New to ElectronJS
-- A designer or frontend developer exploring desktop apps
-- Building quick prototypes or side projects
-- Looking for a clean starting point without extra complexity
-
-If you’re looking for a guided beginner project after setting up this template, check out this calendar demo repo: https://github.com/nasha-wanich/little-calendar
-
----
-
-## Project Structure
 
 ```
 electron-app-template
@@ -54,7 +11,7 @@ electron-app-template
 └── package-lock.json
 ```
 
-### Core Files Explained
+### Core Files
 
 - **`main.js`**
     
@@ -62,7 +19,7 @@ electron-app-template
     
 - **`index.html`**
     
-    The main UI layout of your desktop app.
+    The main UI layout of  desktop app.
     
 - **`styles.css`**
     
@@ -153,8 +110,4 @@ This will launch a simple Electron desktop window.
 - Add your app logic in `script.js`
 - Adjust window behavior in `main.js`  (ex. size, transparency etc.)
 
----
 
-## Want a Beginner Walkthrough Project?
-
-If you want a step-by-step desktop app beginner tutorial, check out this repo where we build a calendar widget together: https://github.com/nasha-wanich/little-calendar
